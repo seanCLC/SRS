@@ -1,13 +1,13 @@
 ## 项目结构
-![image](images/package.png)
+![image](image/package.png)
 ## 数据库结构
-![image](images/datamoel.png)
+![image](image/datamoel.png)
 ## 选课时序图
-![image](images/uml1.png)
+![image](image/uml1.png)
 ## 查询成绩时序图
-![image](images/uml2.png)
+![image](image/uml2.png)
 
-## 选课逻辑
+## 选课逻辑代码
 	public String validate(Student student, Section section) {	
 		String result=null;
 		boolean inPlan=false;//培养计划是否包含这门课程
@@ -52,27 +52,27 @@
 
 ##
 ## 运行界面
-### (1)登陆系统
-![image](images/srs1.png);
+### (1)登陆页面
+![image](image/srs1.png);
 ### (2)选课首页
-![image](images/srs2.png)
+![image](image/srs2.png)
 ### (3)查看课程安排
-![image](images/srs3.png)
+![image](image/srs3.png)
 ### (4)选课时课程不在该生的计划课程内
-![image](images/srs5.png)
+![image](image/srs5.png)
 ### (5)选课时先修课程不达标
-![image](images/srs7.png)
+![image](image/srs7.png)
 ### (6)选课成功且查询课程的选修情况
-![image](images/srs9.png)
+![image](image/srs9.png)
 ### (7)查询成绩
-![image](images/srs10.png)
+![image](image/srs10.png)
 ### (8)课程管理
-![image](images/classes.png)
+![image](image/classes.png)
 ### (9)添加课程
-![image](images/addclass1.png)
-![image](images/addclass2.png)
+![image](image/addclass1.png)
+![image](image/addclass2.png)
 ### (10)删除课程
-![image](images/deleteclass1.png)
-![image](images/deleteclass2.png)
+![image](image/deleteclass1.png)
+![image](image/deleteclass2.png)
 ### (11）教师管理
-![image](images/teacher.png)
+![image](image/teacher.png)
