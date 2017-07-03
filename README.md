@@ -65,10 +65,10 @@
 ### (6)选课成功
 ![image](image/xuanke3.png)
 ### (7)添加课程
-![image](image/zjkc1.png)
+![image](image/zjkc.png)
 ![image](image/zjkc2.png)
 ### (8)删除课程
-![image](image/sckc1.png)
+![image](image/sckc.png)
 ![image](image/sckc2.png)
 ### (9)查询成绩
 ![image](image/srs10.png)
