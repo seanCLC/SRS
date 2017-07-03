@@ -1,11 +1,11 @@
 ## 项目结构
-![image](image/package.png)
+![image](image/xmjg.png)
 ## 数据库结构
-![image](image/datamoel.png)
+![image](image/数据库结构.png)
 ## 选课时序图
-![image](image/uml1.png)
+![image](image/选课时序图.png)
 ## 查询成绩时序图
-![image](image/uml2.png)
+![image](image/查询成绩时序图.png)
 
 ## 选课逻辑代码
 	public String validate(Student student, Section section) {	
@@ -53,26 +53,26 @@
 ##
 ## 运行界面
 ### (1)登陆页面
-![image](image/srs1.png);
+![image](image/login.png);
 ### (2)选课首页
-![image](image/srs2.png)
-### (3)查看课程安排
-![image](image/srs3.png)
-### (4)选课时课程不在该生的计划课程内
-![image](image/srs5.png)
+![image](image/index.png)
+### (3)学生选课
+![image](image/xsxk.png)
+### (4)选课时课程不在该选课计划内
+![image](image/xuanke1.png)
 ### (5)选课时先修课程不达标
-![image](image/srs7.png)
-### (6)选课成功且查询课程的选修情况
-![image](image/srs9.png)
-### (7)查询成绩
+![image](image/xuanke2.png)
+### (6)选课成功
+![image](image/xuanke3.png)
+### (7)添加课程
+![image](image/zjkc1.png)
+![image](image/zjkc2.png)
+### (8)删除课程
+![image](image/sckc1.png)
+![image](image/sckc2.png)
+### (9)查询成绩
 ![image](image/srs10.png)
-### (8)课程管理
-![image](image/classes.png)
-### (9)添加课程
-![image](image/addclass1.png)
-![image](image/addclass2.png)
-### (10)删除课程
-![image](image/deleteclass1.png)
-![image](image/deleteclass2.png)
+### (10)课程管理
+![image](image/kcgl.png)
 ### (11）教师管理
-![image](image/teacher.png)
+![image](image/jsgl.png)
